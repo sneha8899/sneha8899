@@ -1,5 +1,5 @@
-### Hi there 👋
 
+### Hi there 👋
 <!--
 **sneha8899/sneha8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=sneha8899&show_icons=true&hide_border=true)
+### Programming Languages
+<img alt="langs" title="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kxxt&layout=compact&theme=radical&langs_count=16&exclude_repo=car_classification_tracking_and_more,translated-content,kxxt.github.io,my-solutions-to-exercises-in-programming-abstractions-in-cpp&hide=ejs,stylus,hack,scilab">
+
+#### Advanced
 -->
